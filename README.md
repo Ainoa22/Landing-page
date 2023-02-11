@@ -1,2 +1,2 @@
 # Landing page
-Vou desenvolver uma página web utilizando HTML e CSS.
+Vou desenvolver uma landing page de petshop utilizando HTML e CSS.
